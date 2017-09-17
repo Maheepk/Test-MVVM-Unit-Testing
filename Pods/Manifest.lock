@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.5.0)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - EZLoadingActivity (1.01)
+  - ObjectMapper (2.2.7)
+  - SDWebImage (4.0.0):
+    - SDWebImage/Core (= 4.0.0)
+  - SDWebImage/Core (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireObjectMapper
+  - EZLoadingActivity
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  EZLoadingActivity: edd7e387e5197b116ce2cccb3fd747ababc2a510
+  ObjectMapper: 65abcfd9a61cf7396cbd14a4fb22fddfcc46577e
+  SDWebImage: 76a6348bdc74eb5a55dd08a091ef298e56b55e41
+
+PODFILE CHECKSUM: e3b59d3c8f2cb3c5c2a602ea43b3f16339d1be06
+
+COCOAPODS: 1.2.1
